@@ -43,3 +43,19 @@ print(OP1)  # ['b07vtfn6hm', 'b08y5kxr6z']
 print(OP2)  # [2018.8, 800, 2132.48]
 print(OP3)  # [0.297, 0.2654, 0.2311, ...]
 print(OP4)  # -0.0232
+
+```
+
+## 📌 Requirements
+
+- Written in Python 3 (no external libraries allowed)  
+- Only built-in string, list, and file-handling methods are used  
+
+---
+
+## 📚 Notes
+
+- All string comparisons are case-insensitive  
+- Product ID and category names are normalized to lowercase  
+- Sales data is parsed and aligned year-by-year for analysis  
+
