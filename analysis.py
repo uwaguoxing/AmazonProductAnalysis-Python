@@ -1,5 +1,3 @@
-# Author Name: Guoxing Zhu
-# The student ID: 24308319.
 # This is the code designed to solve the Tasks for the given project.
 
 def Task1(CSVfile, category):
